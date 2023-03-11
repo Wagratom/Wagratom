@@ -16,7 +16,7 @@ Achievement🥇
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" ></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
