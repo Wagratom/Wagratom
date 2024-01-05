@@ -28,4 +28,9 @@ Achievement🥇
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/inceptione.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"></a>
  </div>
-  
+
+  <div>
+<a href="https://github.com/Wagratom">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wagratom&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Wagratom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
