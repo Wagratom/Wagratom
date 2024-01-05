@@ -24,7 +24,8 @@ Achievement🥇
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
-     <a href="https://github.com/Wagratom/42Exercicios"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/webserve.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/inceptione.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"></a>
  </div>
   
