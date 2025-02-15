@@ -12,21 +12,18 @@
   
 Achievement🥇 
  <div>      
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/libftm.png" ></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_printfm.png" ></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/pipexm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/push_swapm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/philosophersm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/netpracticem.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/cppm.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/webserve.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/inceptione.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/libft.png" ></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/get_next_line.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/netwhat.png ></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_printf.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_born2beroot.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_fractol.png></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_pipex.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_push_swap.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_minihell.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_philosophers.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_minirt.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_cpp.png"></a>
  </div>
 
   ##
