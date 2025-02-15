@@ -14,7 +14,6 @@ Achievement🥇
  <div>      
   <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/libft.png" ></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/get_next_line.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/netwhat.png ></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_printf.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_born2beroot.png"></a>
   <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_fractol.png></a>
