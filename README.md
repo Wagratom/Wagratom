@@ -12,18 +12,18 @@
   
 Achievement🥇 
  <div>      
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/libft.png" ></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/get_next_line.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/netwhat.png ></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_printf.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_born2beroot.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_fractol.png></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_pipex.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_push_swap.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_minihell.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_philosophers.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_minirt.png"></a>
-  <a href="https://github.com/session"><img height="100" width="100" src="/librity/librity/raw/master/.github/ft_cpp.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/libft.png" ></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/get_next_line.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/netwhat.png ></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_printf.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_born2beroot.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_fractol.png></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_pipex.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_push_swap.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_minihell.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_philosophers.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_minirt.png"></a>
+  <a href="https://github.com/session"><img height="100" width="100" src="https://github.com/Wagratom/achievements42/blob/main/.github/ft_cpp.png"></a>
  </div>
 
   ##
